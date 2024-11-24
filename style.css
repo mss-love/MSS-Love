@@ -32,11 +32,11 @@ a {
 .mscname{
   font-size:20px;
   font-weight:bold;
-  padding:0 20px;
+  padding:10px;
 }
 
 .mscartist{
-  padding-left:20px;
+  padding-left:10px;
   color:#BDBDBD;
 }
 
