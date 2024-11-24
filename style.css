@@ -24,6 +24,7 @@ a {
     text-decoration: none;
 }
 .logotip {
+    padding-top: 6px;
     padding-left: 18px;
     font-size: 24px;
 }
